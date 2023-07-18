@@ -1,7 +1,7 @@
 - 👋 Hi, I’m qqlater
-- 👀 I’m interested in deconstructing the world to make the ultimate software
+- 👀 I’m looking to collaborate on RPG games
 - 🌱 I’m currently learning a bit of python
-- 💞️ I’m looking to collaborate on RPG games
+- 💞️ I’m interested in the relationship and bounds between reality and virtual spaces
 - 📫 How to reach me martin.aquasoft@gmail.com
 
 <!---
